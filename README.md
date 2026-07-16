@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🍳 ResepKu - Android Recipe App</h1>
+  <h1>🍳 ResepKita.id - Android Recipe App</h1>
   <p>Aplikasi Android modern untuk menemukan, menyimpan, dan berbagi resep masakan favorit Anda!</p>
 </div>
 
