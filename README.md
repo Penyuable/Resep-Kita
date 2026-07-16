@@ -74,5 +74,5 @@ Proyek ini didistribusikan di bawah **Lisensi MIT**. Lihat file `LICENSE` untuk 
 
 ---
 <div align="center">
-  <i>Dibuat dengan ❤️ oleh [Nama/Username Anda]</i>
+  <i>Origin by Bryxy</i>
 </div>
